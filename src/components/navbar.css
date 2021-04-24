@@ -1,0 +1,30 @@
+
+.navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 3;
+    background: hsla(0,0%,100%,.98);
+    transition: box-shadow .25s ease 0s;
+}
+
+
+
+.logo-docplanner {
+    width: 268px;
+    height: 33px;
+    margin-left: 150px;
+}
+.left-Nav{
+    margin-right:150px;
+}
+.nav-link{
+    color: #ababab;
+    display: block;
+    text-decoration: none;
+    padding: 0 .6em;
+}
+a .nav-link:hover{
+    color:#00b39b;
+}
